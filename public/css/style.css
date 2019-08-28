@@ -1,0 +1,98 @@
+body {
+    font-family: 'Roboto' !important;
+}
+
+.perspective-bar-left {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.perspective-bar-right {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.col-sm-3 {
+    margin: 10px 0 10px;
+}
+
+.result-title {
+    margin: 70px;
+    color: #050f84 !important;
+}
+
+.test-title {
+    font-weight: bold !important;
+    color: #050f84 !important;
+}
+
+.title-text {
+    font-weight: bold !important;
+    color: #474747;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
+.dimension-text {
+    color: #70706d;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.test-subtitle {
+    color: #575756;
+    font-size: 14px;
+}
+
+.question-box {
+    margin: 20px;
+}
+
+.text-disagree {
+    padding-right: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.text-agree {
+    padding-left: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.result-box {
+    margin: 30px;
+}
+
+.save-button-position {
+    padding-bottom: 10%;
+}
+
+.perspective-bar-empty {
+    background-color: #e8e8e8;
+}
+
+.perspective-bar-full {
+    background-color: #a00baa;
+}
+
+.demo input[type="radio"] {
+    opacity: 0;
+	position: absolute;
+	z-index: -1;
+}
+.demo input[type="radio"] + label span {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	margin: -1px 4px 0 0;
+	vertical-align: middle;
+	background: url("/img/unchecked.png");
+	background-size: cover;
+	cursor: pointer;
+}
+.demo input[type="radio"]:checked + label span {
+	background: url("/img/checked.png");
+	background-size: cover;
+}
