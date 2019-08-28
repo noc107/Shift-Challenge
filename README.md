@@ -40,6 +40,10 @@ By fully attaching to the design, the app has no return buttons from results pag
 
 In the Test Cases file, there is one wrong test case. The test case D says that the result must be INFP but it's actually INFJ.
 
+As not being specified, there is not email duplication checking.
+
+Hope you like it! :)
+
 
 
 
