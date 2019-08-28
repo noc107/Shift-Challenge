@@ -2,7 +2,7 @@
 Php, Laravel, MySQL, Js, Jquery, Bootstrap
 
 A simple web application that emulates a MBTI test.
-The user just have to select the agreement level of 10 questions, in a level from 1 to 7, write their email, submit and the app will determine the dimensions where user belongs.
+The user just have to select the agreement level of 10 questions, in a level from 1 to 7, write their email, submit and the app will determine the dimensions where the user belongs.
 
 This simple design is fully based in this: https://www.figma.com/file/00SYaOnpIUYLAdvhGlTz4j97/Engineer-Perspective-Test
 
